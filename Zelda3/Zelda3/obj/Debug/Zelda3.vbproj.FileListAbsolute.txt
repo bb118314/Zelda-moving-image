@@ -1,0 +1,20 @@
+C:\Users\bb118314\AppData\Local\Temporary Projects\Zelda3\bin\Debug\Zelda3.exe.config
+C:\Users\bb118314\AppData\Local\Temporary Projects\Zelda3\bin\Debug\Zelda3.exe
+C:\Users\bb118314\AppData\Local\Temporary Projects\Zelda3\bin\Debug\Zelda3.pdb
+C:\Users\bb118314\AppData\Local\Temporary Projects\Zelda3\bin\Debug\Zelda3.xml
+C:\Users\bb118314\AppData\Local\Temporary Projects\Zelda3\obj\Debug\Zelda3.Form1.resources
+C:\Users\bb118314\AppData\Local\Temporary Projects\Zelda3\obj\Debug\Zelda3.Resources.resources
+C:\Users\bb118314\AppData\Local\Temporary Projects\Zelda3\obj\Debug\Zelda3.vbproj.GenerateResource.Cache
+C:\Users\bb118314\AppData\Local\Temporary Projects\Zelda3\obj\Debug\Zelda3.exe
+C:\Users\bb118314\AppData\Local\Temporary Projects\Zelda3\obj\Debug\Zelda3.xml
+C:\Users\bb118314\AppData\Local\Temporary Projects\Zelda3\obj\Debug\Zelda3.pdb
+C:\Users\bb118314\Documents\Visual Studio 2013\Projects\Zelda3\Zelda3\bin\Debug\Zelda3.exe.config
+C:\Users\bb118314\Documents\Visual Studio 2013\Projects\Zelda3\Zelda3\obj\Debug\Zelda3.exe
+C:\Users\bb118314\Documents\Visual Studio 2013\Projects\Zelda3\Zelda3\obj\Debug\Zelda3.xml
+C:\Users\bb118314\Documents\Visual Studio 2013\Projects\Zelda3\Zelda3\obj\Debug\Zelda3.pdb
+C:\Users\bb118314\Documents\Visual Studio 2013\Projects\Zelda3\Zelda3\bin\Debug\Zelda3.exe
+C:\Users\bb118314\Documents\Visual Studio 2013\Projects\Zelda3\Zelda3\bin\Debug\Zelda3.pdb
+C:\Users\bb118314\Documents\Visual Studio 2013\Projects\Zelda3\Zelda3\bin\Debug\Zelda3.xml
+C:\Users\bb118314\Documents\Visual Studio 2013\Projects\Zelda3\Zelda3\obj\Debug\Zelda3.Form1.resources
+C:\Users\bb118314\Documents\Visual Studio 2013\Projects\Zelda3\Zelda3\obj\Debug\Zelda3.Resources.resources
+C:\Users\bb118314\Documents\Visual Studio 2013\Projects\Zelda3\Zelda3\obj\Debug\Zelda3.vbproj.GenerateResource.Cache
